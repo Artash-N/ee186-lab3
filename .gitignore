@@ -1,0 +1,7 @@
+*.o
+*.elf
+*.bin
+*.map
+Debug/
+.settings/
+.DS_Store
